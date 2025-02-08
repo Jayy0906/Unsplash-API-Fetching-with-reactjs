@@ -1,0 +1,31 @@
+body {
+  background-color: #e6e6fa!important; /* Light violet */
+  color: #333;
+  font-family: "Arial", sans-serif;
+}
+
+h1 {
+  color: #4b0082; /* Deep Indigo */
+}
+
+.input-group .form-control {
+  border-radius: 20px;
+  border: 2px solid #4b0082;
+}
+
+.btn-dark {
+  background-color: #4b0082;
+  border: none;
+  border-radius: 20px;
+}
+
+.card {
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
